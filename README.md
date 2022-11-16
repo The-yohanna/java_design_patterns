@@ -2,6 +2,10 @@
 
 This project explore the various design patterns in Java.
 
+## Adapter pattern
+
+This pattern converts the interface of a class into another interface that clients expect. It allows classes to work together that couldn't otherwise because of incompatible interfaces.
+
 ## Strategy pattern
 
 This pattern defines a family of algorithms, encapsulate each one, and makes them interchangeable. This lets the algorithm vary independetly from clients that use it.
